@@ -1,0 +1,1 @@
+# 27-7-aternos-afk-bot
